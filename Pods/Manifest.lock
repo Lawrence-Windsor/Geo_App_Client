@@ -1,0 +1,13 @@
+PODS:
+  - AFNetworking (0.9.0)
+  - ISO8601DateFormatter (0.6)
+
+DEPENDENCIES:
+  - AFNetworking (= 0.9)
+  - ISO8601DateFormatter (= 0.6)
+
+SPEC CHECKSUMS:
+  AFNetworking: 1ffd2b446d243a9cd62566d2d26ea37e2b2393ee
+  ISO8601DateFormatter: dc05a2481edf49668d85d3ff8c466c32eb544780
+
+COCOAPODS: 0.19.1
